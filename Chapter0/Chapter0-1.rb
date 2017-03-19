@@ -3,6 +3,6 @@
 #
 
 first_name = "Tom"
-last_name  = "Straszewski"
+last_name  = "Fakename"
 
-puts first_name + last_name
+puts first_name + " " + last_name
